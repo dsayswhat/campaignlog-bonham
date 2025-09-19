@@ -26,7 +26,7 @@ Runk should return tomorrow ready to rehearse his song with [[Emelda Wishorn]], 
 
 
 ## 20 Iggwyld
-Received letter [[_site/assets/20th Iggwylde, Shantywood Isle|20th Iggwylde, Shantywood Isle]] from [[Alphonse LeDuc]] on behalf on [[Madame Shantywood]]
+Received letter [[assets/20th Iggwylde, Shantywood Isle|20th Iggwylde, Shantywood Isle]] from [[Alphonse LeDuc]] on behalf on [[Madame Shantywood]]
 
 Encountered the Anti-prism in the woods north of the Ditchway - turned our heroes different colors.
 ## 19 Iggwyld
