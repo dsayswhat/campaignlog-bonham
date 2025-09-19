@@ -1,6 +1,3 @@
-## Elbogen
-Mother was a harper. Elbogen would wake up in the morning to the sound of her mother tuning her harp, and would bound out of bed to dance while her mother practiced, sometimes getting a little too rowdy.
-
 ## Mushrump
 Raised by mom and his 4 aunts, who were herbalists, running a lab/shop in their living room. Smells of herbs,  sounds of mortar and pestle, memories of cleaning. 
 
@@ -25,3 +22,7 @@ Interested in what's profitable, less interested in what's right.
 
 19 Iggwyld, turned Orange (impetuous, arrogant) by the anti-prism.
 
+## Elbogen
+Cleric, currently living in Dreg.
+
+Mother played the harp. Elbogen would wake up in the morning to the sound of her mother tuning her harp, and would bound out of bed to dance while her mother practiced, sometimes getting a little too rowdy.

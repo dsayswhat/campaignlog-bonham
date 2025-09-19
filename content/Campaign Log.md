@@ -58,7 +58,7 @@ Met with Reverend Mother [[Shandra Haddlewreath]], then fought the unicorn thing
 
 Obtained scrawled map from Unicorn thing.
 
-![[_site/assets/Scribbled Map.png]]
+![[assets/Scribbled Map.png]]
 
 Caroused and lost the good will of the Berkmeister and constabulary in Dreg for the next two months.
 

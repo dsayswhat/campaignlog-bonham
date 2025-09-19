@@ -1,6 +1,8 @@
 ---
 title: Welcome to Quartz
 ---
+## Visit the [[Campaign Log]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+![[About The Party]]
+
