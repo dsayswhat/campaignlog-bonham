@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Bonham Dolmenwood Campaign Log
 ---
 ## Visit the [[Campaign Log]]
 
