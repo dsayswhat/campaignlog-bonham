@@ -1,0 +1,1 @@
+Possessed of a beautiful voice, this part-breggle young woman disappeared for a while. This prompted fears that something had happened to her, but she resurfaced at the Hlerribuck festival in the company of Lord Malbleat. 

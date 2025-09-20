@@ -1,0 +1,3 @@
+Friar, living in Dreg. Under the influence of the creature hiding in the smokehouse, he experienced a personality change. He became more severe, and eager to punish sin, and gathered a following of young men to patrol the city in the name of God...
+
+After being confronted by Elbogen, and with the cleansing of the smokehouse by the party, he began to break free of that influence, and has apparently turned over a new leaf. Together with Elbogen and [Mother Superior Haddlewreath](npc/Shandra%20Haddlewreath)
