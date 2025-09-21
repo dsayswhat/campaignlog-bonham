@@ -1,3 +1,4 @@
+These are things that our heroes have learned. Not sure if this list is useful, might retire it.
 ## High Wold
 
 * Drowned town of Lankston, west on the Ditchway, edge of the forest
