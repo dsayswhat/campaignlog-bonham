@@ -52,7 +52,7 @@ She also mentioned to them that they might want to consult [[Farnham Ribblemead]
 
 ## 18 Iggwyld
 
-Lots of rumors in the Mermaid's Arms
+Lots of rumors in the Mermaid's Arms. 
 Grey blight patient at the Mermaid's Arms
 Met with Reverend Mother [[Shandra Haddlewreath]], then fought the unicorn thing in the smokehouse.
 
@@ -79,6 +79,7 @@ In [[Dreg]], found [[Brother Hogbeard]] and his Yellow-Smocks terrorizing a home
 
 Elbogen and Syd stepped in, and with a prayer to the One True God imposed fear on Hogbeard, and turned the attention of his followers, saving the poor man. 
 
+Our heroes took rooms at The Mermaid's Arms, owned and operated by [[Tamrin Tweede]] and her nephew [[Ogham Tweede]].
 
 ## 16 Iggwyld 
 Team goes shopping, buys health stuff, orders a dagger from [[Joremey Whilpston-Puddingfoot]] [[the Bladesmith]]. 

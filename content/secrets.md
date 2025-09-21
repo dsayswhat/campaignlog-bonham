@@ -14,6 +14,8 @@ These are things that our heroes have learned. Not sure if this list is useful, 
 * Madame Shantywood runs the town, more or less, controlling the docks and the casino on Shantywood Isle.
 * The mermaid's arms tavern is a safe place to stay. But some say it's haunted?
 * Say hello to Mother Hadlewreathe at the church of St. Wick, from Mallowyn and Trelade Occland, twin sisters and proprietors at the House of the Harridwn.
+* [[Ogham Tweede]] - bartender at the Mermaid's arms. Wants to know where his ex, [[one-eyed Jill]] is... fled burglary of Redwraith Manor 15 years ago.
+
 
 ## Lankshorn
 
